@@ -5,13 +5,15 @@
 BM22S3031-1
 ===========================================================
 
+The BM22S3031-1 is a catalytic gas detector digital sensor from Best Modules, which uses the UART communication method. This document provides the description of the BM22S3031-1 Arduino Lib functions and how to install the Arduino Lib. The example uses the BMA36M303 module to demonstrate the functions of alarm signal output and gas concentration read. 
+
 #### Applicable types:
 <div align=center>
 
 |Part No.   |Description                   |
 |:---------:|:----------------------------:|
-|BM22S3031-1||
-|BMA36M303  |  |
+|BM22S3031-1|Catalytic Gas Detector Digital Sensor|
+|BMA36M303  | On-board BM22S3031-1 Sensor |
 
 </div> 
 
